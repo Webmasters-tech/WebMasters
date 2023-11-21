@@ -105,7 +105,7 @@
   
   .course {
     margin: 6px;
-    padding: 20px 30px;
+    padding: 20px 20px;
     background-color: #F7EDFF;
     border: none;
     border-radius: 8px;
@@ -120,7 +120,8 @@
   }
 
   h3 {
-    margin: 3% 52% 0%;
+    margin: 3% 31% 0%;
+    padding-left: 10%;
     align-items: center;
     font-style: italic;
   }
