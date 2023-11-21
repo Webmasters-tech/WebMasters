@@ -28,6 +28,10 @@ body {
   margin-top: 50px;
   margin-bottom: 100px;
 }
+.navbar-sign {
+  background-color: #7a16c9;
+  padding: 10px;
+}
 img {
   float: left;
   margin-right: 10px;
@@ -66,14 +70,14 @@ form {
   padding: 10px 15px;
 }
 .submit {
-  margin-right: 40px;
+  margin-right: 33px;
   padding: 10px;
   background-color: #7a16c9;
 
   border: none;
 }
 .forgot-password {
-  color: #b46262;
+  color: #ca5757;
 }
 a {
   color: white;
